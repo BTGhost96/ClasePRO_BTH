@@ -12,6 +12,7 @@ public class Main {
         System.out.print("Este es mi primer programa en java\n\n");
         System.out.println("Este es la segunda linea del probrama");
         System.out.println("Esta es\nla tercera linea y estoy probando el salto de la n y del printnl a la vez dentro del parentesis");
+        System.out.println("una pulga aventurera decidio salir de viaje");
 
     }
 
